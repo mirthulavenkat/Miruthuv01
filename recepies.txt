@@ -4,3 +4,5 @@ dosa
 sambar
 pizza
 icecream
+
+Thank you for coming
